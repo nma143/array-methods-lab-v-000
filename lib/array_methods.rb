@@ -19,7 +19,7 @@ end
 def using_first(array)
 
   array.first
-  
+
 
 end
 
